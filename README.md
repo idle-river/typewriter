@@ -1,7 +1,12 @@
-# Tauri + React + Typescript
+# Typewriter
 
-This template should help get you started developing with Tauri, React and Typescript in Vite.
+This project is (another) SSH session and authentication manager,
+designed for ease of use by both yourself and your team.
 
-## Recommended IDE Setup
+## Tech Stack
 
-- [VS Code](https://code.visualstudio.com/) + [Tauri](https://marketplace.visualstudio.com/items?itemName=tauri-apps.tauri-vscode) + [rust-analyzer](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer)
+> This list will grow as we add more technology...
+
+- React + Typescript (Frontend)
+- Tauri + Rust (Backend)
+- SQLite (Database)
